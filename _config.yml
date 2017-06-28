@@ -21,8 +21,8 @@ defaults:
     related: true
 locale: en
 title_separator: "-"
-name: Momarch
-description: An amazing website.
+name: Book of Mom
+description: Thinking.
 url: 
 baseurl: 
 repository: 
@@ -83,7 +83,7 @@ analytics:
   google:
     tracking_id: 
 author:
-  name: Your Name
+  name: Momarch
   avatar: 
   bio: I'm justing thinking.
   location: The Livingroom
